@@ -4,3 +4,4 @@ space.vectrix.ignite.game.PaperGameLocator
 space.vectrix.ignite.game.VelocityGameLocator
 space.vectrix.ignite.game.LegacyPaperGameLocator
 space.vectrix.ignite.game.DummyGameLocator
+space.vectrix.ignite.game.MOTGameLocator
